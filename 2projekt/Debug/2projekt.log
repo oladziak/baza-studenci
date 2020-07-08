@@ -1,0 +1,9 @@
+﻿  Źródło.cpp
+c:\users\aleksandra\desktop\2projekt\2projekt\źródło.cpp(49): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\aleksandra\desktop\2projekt\2projekt\źródło.cpp(71): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\aleksandra\desktop\2projekt\2projekt\źródło.cpp(84): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\aleksandra\desktop\2projekt\2projekt\źródło.cpp(100): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\aleksandra\desktop\2projekt\2projekt\źródło.cpp(116): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\aleksandra\desktop\2projekt\2projekt\źródło.cpp(172): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\aleksandra\desktop\2projekt\2projekt\źródło.cpp(175): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  2projekt.vcxproj -> C:\Users\Aleksandra\Desktop\2projekt\Debug\2projekt.exe
