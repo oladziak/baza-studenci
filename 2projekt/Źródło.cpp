@@ -60,7 +60,7 @@ void szukaj(vector <student> tab)
 	string spec;
 	float sr;
 	int i = 0;
-	cout << "\nPo ktorej wartosci szukaæ?(id->1, nazwisko->2, specjalnosc->3, srednia->4 " << endl;
+	cout << "\nPo ktorej wartosci szukac?(id->1, nazwisko->2, specjalnosc->3, srednia->4 " << endl;
 	cin >> wybor;
 	switch (wybor)
 	{
